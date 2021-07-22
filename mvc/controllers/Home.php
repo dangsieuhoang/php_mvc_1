@@ -1,7 +1,7 @@
 <?php
     class Home{
         function SayHi(){
-            echo "Home- sayHi";
+            echo "Home- sayHoang";
         }
         function show(){
             echo "Home Show";
